@@ -1,0 +1,15 @@
+---
+title: "hello world"
+author:
+- name: Jixing Liu
+  url: https://jixing.netlify.com/
+  affiliation: iCarbonX
+  affiliation_url: https://www.icarbonx.com/en/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+description: |
+  Taking the `radix` R package for a test spin with `Scikit Learn`!
+---
+
+
+haha haha

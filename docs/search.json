@@ -1,0 +1,35 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-14T11:31:42+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-14T11:31:42+08:00"
+    },
+    {
+      "path": "new_page.html",
+      "title": "hello world",
+      "description": "Taking the `radix` R package for a test spin with `Scikit Learn`!",
+      "author": [
+        {
+          "name": "Jixing Liu",
+          "url": "https://jixing.netlify.com/"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nhaha haha\n\n\n\n",
+      "last_modified": "2021-05-14T11:31:43+08:00"
+    }
+  ],
+  "collections": []
+}
